@@ -1,0 +1,7 @@
+faster-whisper
+logging
+requests
+flask
+eventlet
+flask_socketio
+werkzeug
